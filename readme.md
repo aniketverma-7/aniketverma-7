@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=social) 
-![Visits](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+[![](https://visitcount.itsvg.in/api?id=aniketverma-7&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ## About Me
 
@@ -57,7 +57,3 @@ If you like my work, consider buying me a coffee!
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
 
-
-
-
-[![](https://visitcount.itsvg.in/api?id=aniketverma-7&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
