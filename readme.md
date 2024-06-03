@@ -15,16 +15,6 @@ I am a highly motivated NYU Computer Science graduate student with expertise in 
 - 📫 How to reach me: av3378@nyu.edu
 - ⚡ Fun fact: I enjoy experimenting with new technologies and frameworks during my free time.
 
-## Education
-
-**New York University**  
-Master of Science in Computer Science  
-*May 2025*
-
-**Rajiv Gandhi Proudyogiki Vishwavidyalaya**  
-Bachelor of Technology in Computer Engineering  
-*May 2023*
-
 ## Skills
 
 **Proficient In:**  
@@ -63,43 +53,16 @@ Bachelor of Technology in Computer Engineering
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 
-## Experience
 
-### New York University
-**Graduate Assistant (Teaching Assistant)**  
-*May 2024 – May 2025*  
-- Spearheaded comprehensive code review sessions, delivering targeted feedback to refine students’ Java programming proficiency.
-- Mentored and guided 50+ students on Java syntax, algorithms, and problem-solving techniques, resulting in an improvement in their coding proficiency.
-- Fostered collaborative learning via group discussions, coding exercises, and team projects, boosting teamwork cohesion.
+## GitHub Stats
 
-### BookMyKainchi
-**Android Developer Intern**  
-*July 2021 – September 2021*  
-- Instrumental in the successful launch of the private beta, actively participating in feature discussions and providing valuable feedback that led to a 20% increase in user engagement and a 15% rise in user satisfaction levels.
-- Applied advanced knowledge of MVVM architecture and Jetpack frameworks, resulting in a 30% reduction in app crash rates and a 25% improvement in app performance metrics.
-- Demonstrated leadership by guiding and assisting colleagues in overcoming blockers during the internship, resulting in a 40% increase in project completion efficiency and a 20% enhancement in team productivity.
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketverma-7&show_icons=true&theme=radical)
 
-## Projects
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketverma-7&layout=compact&theme=radical)
 
-### Stock Management and Analysis
-*Java, Spring Boot, MySQL, Yahoo Finance API, Alpha Vantage API*  
-*Apr 2024 – May 2024*  
-- Integrates with third-party APIs to provide real-time stock prices, volumes, and trends, ensuring users have the latest market information.
-- Uses Java and Spring Boot with MySQL for robust tracking, performance metrics, and historical data analysis of investments.
-- Offers advanced tools and custom alerts to help users identify market opportunities and react swiftly to changes.
-
-### Satisfaction Prediction from Chemicals
-*Python, Machine Learning, Data Analysis and Visualization*  
-*Feb 2024 – May 2024*  
-- Engineered features by categorizing chemicals into functional groups and selecting frequently occurring ingredients.
-- Achieved enhanced prediction accuracy by implementing linear regression, ridge regression, and random forest classifiers using scikit-learn.
-- Leveraged sentiment analysis of customer reviews to correlate chemical compositions with satisfaction levels, informing product formulation and marketing strategies.
 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketverma01)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aniketverma-7)
 
-## Support
-
-If you like my work, consider buying me a coffee!
