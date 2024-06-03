@@ -1,7 +1,7 @@
 # Hi there, I'm Aniket Verma 👋
 
-![GitHub followers](https://img.shields.io/github/followers/aniketverma-7?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/aniketverma-7?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub followers](https://img.shields.io/github/followers/aniketverma-7?label=Follow&style=social) 
+![GitHub stars](https://img.shields.io/github/stars/aniketverma-7?affiliations=OWNER%2CCOLLABORATOR&style=social) 
 [![](https://visitcount.itsvg.in/api?id=aniketverma-7&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ## About Me
