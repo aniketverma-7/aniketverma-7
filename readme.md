@@ -103,5 +103,3 @@ Bachelor of Technology in Computer Engineering
 ## Support
 
 If you like my work, consider buying me a coffee!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
