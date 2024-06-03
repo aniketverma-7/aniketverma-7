@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Aniket
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=social) 
