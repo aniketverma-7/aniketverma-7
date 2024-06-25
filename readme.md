@@ -12,7 +12,7 @@ I am a highly motivated NYU Computer Science graduate student with expertise in 
 - 🌱 I’m currently learning advanced machine learning techniques and exploring new frameworks.
 - 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
 - 💬 Ask me about Java, Python, Android development, and data analysis.
-- 📫 How to reach me: av3378@nyu.edu
+- 📫 How to reach me: aniket.verma@nyu.edu
 - ⚡ Fun fact: I enjoy experimenting with new technologies and frameworks during my free time.
 
 ## Skills
