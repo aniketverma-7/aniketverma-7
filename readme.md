@@ -64,3 +64,17 @@ I am a highly motivated NYU Computer Science graduate student with expertise in 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketverma01)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aniketverma-7)
 
+
+<div align="center">
+  <lottie-player
+    src="https://assets2.lottiefiles.com/packages/lf20_UJNc2t.json"
+    background="transparent"
+    speed="1"
+    style="width: 300px; height: 300px;"
+    loop
+    autoplay>
+  </lottie-player>
+</div>
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
