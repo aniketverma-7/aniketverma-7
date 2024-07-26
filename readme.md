@@ -56,9 +56,7 @@ I am a highly motivated NYU Computer Science graduate student with expertise in 
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketverma-7&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketverma-7&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketverma-7&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketverma-7&layout=compact&theme=radical)
 
 
 ## Connect with me
