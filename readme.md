@@ -75,6 +75,3 @@ I am a highly motivated NYU Computer Science graduate student with expertise in 
     autoplay>
   </lottie-player>
 </div>
-
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-
